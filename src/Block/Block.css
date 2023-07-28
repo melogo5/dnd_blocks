@@ -1,0 +1,11 @@
+.block {
+    padding: 8px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.block--text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

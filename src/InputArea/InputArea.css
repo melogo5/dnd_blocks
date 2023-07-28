@@ -1,0 +1,16 @@
+.input-area__items-container {
+    width: 100%;
+    padding: 8px 4px;
+    box-sizing: border-box;
+    width: '100%';
+}
+
+.item-edit-form--container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.item-edit-form--type-select {
+    margin-bottom: 10px;
+}
